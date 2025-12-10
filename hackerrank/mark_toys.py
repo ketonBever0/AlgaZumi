@@ -19,7 +19,7 @@ import sys
 
 # START
 def maximumToys(prices, k):
-    # mindig celszeru elsonek rendezni
+    # altalaban celszeru elsonek rendezni
     prices.sort()
 
     count = 0
